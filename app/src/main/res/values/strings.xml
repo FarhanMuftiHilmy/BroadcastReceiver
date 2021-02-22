@@ -2,4 +2,6 @@
     <string name="app_name">BroadcastReceiver</string>
     <string name="power_connected">Power Connected</string>
     <string name="power_disconnected">Power Disconnected</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
 </resources>
